@@ -3,7 +3,8 @@ description: Lead Software Engineer
 baseurl: ""
 url: https://chadjnsn.github.io/
 
-theme: cvless
+# theme: cvless
+remote_theme: cvless
 
 # site settings
 taglong: Lead Software Engineer
