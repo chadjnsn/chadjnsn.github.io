@@ -1,0 +1,35 @@
+title: Chad Johnson
+description: Lead Software Engineer
+baseurl: ""
+url: https://chadjnsn.github.io/
+
+theme: cvless
+
+# site settings
+taglong: Lead Software Engineer
+tagshort: Lead Software Engineer
+
+# author settings
+author:
+  name: Chad Johnson
+  email: username@domain.com
+photo: assets/files/photo.png
+# address: Foobar Hall 1.23
+# phone: +1 234 567 890
+
+# social media links
+social:
+  # facebook: username
+  github: chadjnsn
+  # instagram: username
+  linkedin: chadjnsn
+  # stackoverflow: 0000000/username
+  # x: username
+  threads: codeintherain
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
