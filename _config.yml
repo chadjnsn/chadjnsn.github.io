@@ -27,6 +27,7 @@ social:
   # stackoverflow: 0000000/username
   # x: username
   threads: codeintherain
+  bluesky: codeintherain.bsky.social
 
 # build settings
 permalink: pretty

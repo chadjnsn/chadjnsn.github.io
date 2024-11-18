@@ -27,6 +27,9 @@
         {% if site.social.threads %}
         <a class="particles-icon" href="https://threads.net/@{{ site.social.threads }}" target="_blank" rel="noopener noreferrer">{% include svg/threads.svg %}</a>
         {% endif %}
+        {% if site.social.bluesky %}
+        <a class="particles-icon" href="https://bsky.app/profile/{{ site.social.bluesky }}" target="_blank" rel="noopener noreferrer">{% include svg/bluesky.svg %}</a>
+        {% endif %}
         <!-- <a class="particles-icon" href="cv">{% include svg/cv-circled.svg %}</a> -->
       </div>
     </div>
