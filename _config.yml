@@ -14,7 +14,8 @@ tagshort: Lead Software Engineer
 author:
   name: Chad Johnson
   email: username@domain.com
-photo: assets/files/pencil_photo.jpg
+# Set this to a profile image path (for example: assets/files/profile.jpg)
+# photo: assets/files/profile.jpg
 # address: Foobar Hall 1.23
 # phone: +1 234 567 890
 
